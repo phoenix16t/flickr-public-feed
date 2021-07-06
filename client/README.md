@@ -1,4 +1,4 @@
-# flickr
+# Flickr public feed
 
 ## Project setup
 ```
