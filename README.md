@@ -10,7 +10,7 @@ npm install
 
 ### Start the server
 ```
-cd client
+cd server
 npm start
 ```
 
